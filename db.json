@@ -1,0 +1,69 @@
+{
+  "paradise": [
+    {
+      "id": 1,
+      "name": "Eren Jaeger",
+      "gender": "Male",
+      "info": "March 30th",
+      "img": "https://i.pinimg.com/564x/85/0c/e7/850ce705819930ca65634ec3000ba4b3.jpg",
+      "description": "Main character of the SNK. He is the only child of Grisha and Carla Jaeger. Also, he is the  Zeke Jaeger younger half brother. He is the wielder of the Attack Titan, the Founding Titan, and the Warhammer Titan. Eren hails from the Shiganshina District. \"He lacks talents, improved through outstanding diligence, and possesses a great sense of purpose.\""
+    },
+    {
+      "id": 2,
+      "name": "Mikasa Ackerman",
+      "gender": "Female",
+      "info": "February 10th",
+      "img": "https://i.pinimg.com/236x/6c/ef/2d/6cef2db0a19faaf8be0b13c6c04995c5.jpg",
+      "description": "She is the Eren Jaeger adoptive sister. She changed her personality after the murder of her parents, since when her past is revealed it is seen that Mikasa, before the tragedy, used to be a happy girl. However, she gives her all for the people she cares about. \"His execution of her is exemplary in all areas, she truly is a genius with unprecedented historical significance.\""
+    },
+    {
+      "id": 3,
+      "name": "Armin Arlert",
+      "info": "November 3rd",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/7e/b0/54/7eb0549c345268f86fb187c51f371100.jpg",
+      "description": "Current Scout Corps commander and a Eren Jaeger and Mikasa Ackerman childhood friend. Although physically weaker than the rest of his teammates, he shows great intelligence through his ability to strategize. He lacks physical strength but makes up for it with his academic aptitude. "
+    },
+    {
+      "id": 4,
+      "name": "Sasha Blouse",
+      "info": "July 26th",
+      "gender": "Female",
+      "img": "https://i.pinimg.com/564x/b0/c0/13/b0c01339e3531f7043c9da1f63bf4972.jpg",
+      "gif": "https://giffiles.alphacoders.com/114/114851.gif",
+      "description": "She was a food hoarder. Sasha was born and raised in Dauper, a sparsely populated hunting village surrounded by mountains. Despite being horrified by the Titans, she joined the Scout Corps. She works by working in an unconventional way, that mindset does not make her suitable for organized activities. "
+    },
+    {
+      "id": 5,
+      "name": "Connie Springer",
+      "info": "May 2nd",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/cf/72/cf/cf72cf75a5a95a13cdbd3180ea758f2d.jpg",
+      "description": "A member of the Scouting Corps, originally from Ragako, Connie enlisted in the army with the goal of making his family and his people proud of him. Connie decided to join the Scout Corps, despite his great fear of the Titans. He has the ability to make tight turns, but his mind is not strong enough at all. "
+    },
+    {
+      "id": 6,
+      "name": "Levi Ackerman",
+      "gender": "Male",
+      "info": "December 25th",
+      "img": "https://i.pinimg.com/564x/a7/e2/41/a7e2412f58efbcdfd23d01defc1e5528.jpg",
+      "description": "He is the squad captain, literally the leader of the soldiers of the Scout Corps special operations squad. Levi is a genius in the use of the Three-Dimensional Maneuvers. Many civilians have commented that he is as powerful as 100 soldiers combined. Known as humanity's strongest soldier, he has a skeptical expression, which seems to be unchanging."
+    },
+    {
+      "id": 7,
+      "name": "Erwin Smith",
+      "info": "October 14th",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/2e/34/79/2e347979ceae897f238c30e30f00ee4f.jpg",
+      "description": "It has a great capacity for the use of EDM3, being able to pass through many titans to cut its target. He is very agile and fast, also has a lot of intelligence, thus being able to formulate various strategies for the correct development of missions. Commander Erwin was one of the people capable of making great changes in the world thanks to his decisions."
+    },
+    {
+      "id": 8,
+      "name": "Hange Zoë",
+      "info": "September 5th",
+      "gender": "Female",
+      "img": "https://i.pinimg.com/564x/4f/ea/14/4fea14bc49300ca7de5c07081fa4ef5c.jpg",
+      "description": "Hange apparently has fun using the Three-Dimensional Maneuvering Equipment, she proves that she is an expert combatant, defeating a Titan without major problems. After Erwin Smith's death she took over as commander of Paradise Island. An expert in the field of science of Paradise, she is the current commander, she was the leader of the Exploration Corps."
+    }
+  ],
+}
